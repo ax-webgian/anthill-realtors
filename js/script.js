@@ -39,9 +39,6 @@ $( ".hamburger" ).show();
 });
 });
 
-var reformattednumber = document.getElementById("range-closer").value;
-
-alert (reformattednumber);
 
 });
 
